@@ -8,7 +8,6 @@ public class ChessBoard {
                 rsl = Math.abs(x2 - x1);
             }
         }
-
         return rsl;
     }
 }
